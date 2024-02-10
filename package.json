@@ -1,0 +1,16 @@
+{
+  "name": "portfolio2.0",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "vue": "^3.0.4"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.4",
+    "tailwindcss": "^3.4.1",
+    "vite": "^5.0.11"
+  }
+}
